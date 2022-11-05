@@ -1,0 +1,25 @@
+{
+  "name": "hubsockets-client",
+  "version": "1.0.1",
+  "description": "To be used with the HubSockets C# nuget package",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sladewasinger/HubSockets-Client.git"
+  },
+  "keywords": [
+    "HubSockets",
+    "HubSocket",
+    "HubSockets-Client"
+  ],
+  "author": "Austin Wasinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sladewasinger/HubSockets-Client/issues"
+  },
+  "homepage": "https://github.com/sladewasinger/HubSockets-Client#readme",
+  "dependencies": {
+    "rxjs": "^7.5.7"
+  }
+}
