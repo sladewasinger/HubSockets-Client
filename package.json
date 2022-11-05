@@ -1,6 +1,6 @@
 {
   "name": "hubsockets-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To be used with the HubSockets C# nuget package",
   "main": "dist/HubSocketService.js",
   "types": "dist/HubSocketService.d.ts",
